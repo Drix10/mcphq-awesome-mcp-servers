@@ -4730,6 +4730,21 @@
     }
   },
   {
+    "name": "AI Resources",
+    "url": "https://github.com/Drix10/ai-resources/tree/main/mcp",
+    "description": "Search and read dated AI news briefings on model releases, dev tools, funding rounds and research, each linking to the original post; no API key.",
+    "category": "browsers-search-and-web-automation",
+    "language": "JavaScript",
+    "provider": "Drix10",
+    "tags": [
+      "ai-news",
+      "search",
+      "research",
+      "citations"
+    ],
+    "official": true
+  },
+  {
     "name": "BlazePhoenix",
     "url": "https://github.com/blazephoenixxyz-crypto/blazephoenix-mcp",
     "description": "Official remote MCP server for the BlazePhoenix DEX aggregator on Base, Optimism, Arbitrum and Robinhood Chain: prepare a quote to run on your own RPC, decode it, and get verified calldata. No API key.",

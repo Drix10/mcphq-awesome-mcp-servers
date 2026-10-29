@@ -1,6 +1,6 @@
 # Awesome MCP Servers
 
-> Full Markdown catalog of 567 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
+> Full Markdown catalog of 568 hand-curated Model Context Protocol (MCP) servers. A shorter index lives at https://mcphq.org/llms.txt. The same records are published as JSON at https://mcphq.org/api/servers.json.
 
 This file lists every server in the catalog. Descriptions are the catalog's one-sentence summaries, not the upstream README. `Official: yes` means the MCP project or the named provider backs the server. Remote endpoints are included only when the catalog lists an SSE or streamable HTTP URL.
 
@@ -1092,6 +1092,17 @@ Pay-per-call residential proxy traffic and raw fetch for agents, with country ta
 - Tags: proxy, residential-proxy, x402, remote
 - Category: Browsers, Search, and Web Automation
 - Streamable HTTP endpoint: https://agproxy.shveik.dev/mcp
+
+### AI Resources
+
+Search and read dated AI news briefings on model releases, dev tools, funding rounds and research, each linking to the original post; no API key.
+
+- URL: https://github.com/Drix10/ai-resources/tree/main/mcp
+- Language: JavaScript
+- Provider: Drix10
+- Official: yes
+- Tags: ai-news, search, research, citations
+- Category: Browsers, Search, and Web Automation
 
 ### AI观潮 News MCP
 
